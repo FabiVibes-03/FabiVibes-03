@@ -41,7 +41,7 @@ Soy estudiante de **Ingeniería en Sistemas**, apasionado por la **cibersegurida
 ## 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMGCYT&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FabiVibes-03&show_icons=true&theme=transparent" />
 </p>
 
 ---
