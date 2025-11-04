@@ -11,8 +11,6 @@ Soy estudiante de **Ingeniería en Sistemas**, apasionado por la **cibersegurida
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="35" alt="SQL" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
@@ -31,9 +29,9 @@ Soy estudiante de **Ingeniería en Sistemas**, apasionado por la **cibersegurida
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="35" alt="Excel" />
+  <img src="https://1000marcas.net/wp-content/uploads/2020/12/Microsoft-Excel-Logo.png" height="35" alt="Excel" />
   <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Power_BI_Logo.svg" height="35" alt="Power BI" />
+  <img src="https://gcg.com.mx/wp-content/uploads/2024/06/Microsoft-Power-BI-Logo.png" height="35" alt="Power BI" />
 </div>
 
 ---
