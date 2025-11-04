@@ -13,7 +13,7 @@ Soy estudiante de **Ingeniería en Sistemas**, apasionado por la **cibersegurida
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+  <img src="https://sanchezcorbalan.es/wp-content/uploads/Logo-bash-cubo_dark-1.png" height="35" alt="Bash" />
 </div>
 
 ### 🧩 Herramientas y tecnologías
